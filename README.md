@@ -30,5 +30,5 @@ In this project, you take on the role of a data scientist for a renowned diamond
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-username/snowflake-snowpark-ml-python.git
+   git clone https://github.com/khush-03/Snowpark-ML-for-Python.git
    cd snowflake-snowpark-ml-python
